@@ -1,0 +1,43 @@
+name: Docs Check
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "docs/**"
+      - "docs/MILESTONE6_ARCHITECTURE_NOTE.md"
+      - "docs/PRODUCTION_READINESS_CHECKLIST.md"
+      - "evals/**"
+      - ".github/copilot-instructions.md"
+      - ".github/skills/**"
+      - "scripts/check_docs.py"
+      - ".github/workflows/docs.yml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "docs/**"
+      - "docs/MILESTONE6_ARCHITECTURE_NOTE.md"
+      - "docs/PRODUCTION_READINESS_CHECKLIST.md"
+      - "evals/**"
+      - ".github/copilot-instructions.md"
+      - ".github/skills/**"
+      - "scripts/check_docs.py"
+      - ".github/workflows/docs.yml"
+  workflow_dispatch:
+
+jobs:
+  docs-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate required documentation files
+        run: python scripts/check_docs.py

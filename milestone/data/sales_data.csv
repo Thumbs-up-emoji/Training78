@@ -1,0 +1,901 @@
+Date,Product,Category,Region,Units_Sold,Revenue,Profit
+2025-01-01,Dell Inspiron 15,Laptop,North,5,325000,58500
+2025-01-01,HP LaserJet MFP,Printer,East,8,144000,25920
+2025-01-01,Samsung Galaxy S24,Mobile,West,8,576000,103680
+2025-01-01,Sony WH-1000XM5,Headphones,West,13,325000,58500
+2025-01-01,Apple Watch SE,Smartwatch,East,12,360000,64800
+2025-01-02,Dell Inspiron 15,Laptop,North,1,65000,11700
+2025-01-02,HP LaserJet MFP,Printer,East,8,144000,25920
+2025-01-02,Samsung Galaxy S24,Mobile,West,5,360000,64800
+2025-01-02,Sony WH-1000XM5,Headphones,East,10,250000,45000
+2025-01-02,Apple Watch SE,Smartwatch,West,15,450000,81000
+2025-01-03,Dell Inspiron 15,Laptop,West,9,585000,105300
+2025-01-03,HP LaserJet MFP,Printer,West,7,126000,22680
+2025-01-03,Samsung Galaxy S24,Mobile,North,15,1080000,194400
+2025-01-03,Sony WH-1000XM5,Headphones,West,10,250000,45000
+2025-01-03,Apple Watch SE,Smartwatch,East,8,240000,43200
+2025-01-04,Dell Inspiron 15,Laptop,North,4,260000,46800
+2025-01-04,HP LaserJet MFP,Printer,South,12,216000,38880
+2025-01-04,Samsung Galaxy S24,Mobile,West,9,648000,116640
+2025-01-04,Sony WH-1000XM5,Headphones,West,9,225000,40500
+2025-01-04,Apple Watch SE,Smartwatch,South,11,330000,59400
+2025-01-05,Dell Inspiron 15,Laptop,East,3,195000,35100
+2025-01-05,HP LaserJet MFP,Printer,South,11,198000,35640
+2025-01-05,Samsung Galaxy S24,Mobile,East,11,792000,142560
+2025-01-05,Sony WH-1000XM5,Headphones,East,14,350000,63000
+2025-01-05,Apple Watch SE,Smartwatch,East,9,270000,48600
+2025-01-06,Dell Inspiron 15,Laptop,East,7,455000,81900
+2025-01-06,HP LaserJet MFP,Printer,West,3,54000,9720
+2025-01-06,Samsung Galaxy S24,Mobile,West,6,432000,77760
+2025-01-06,Sony WH-1000XM5,Headphones,North,15,375000,67500
+2025-01-06,Apple Watch SE,Smartwatch,North,5,150000,27000
+2025-01-07,Dell Inspiron 15,Laptop,East,15,975000,175500
+2025-01-07,HP LaserJet MFP,Printer,North,3,54000,9720
+2025-01-07,Samsung Galaxy S24,Mobile,North,11,792000,142560
+2025-01-07,Sony WH-1000XM5,Headphones,South,14,350000,63000
+2025-01-07,Apple Watch SE,Smartwatch,West,3,90000,16200
+2025-01-08,Dell Inspiron 15,Laptop,North,13,845000,152100
+2025-01-08,HP LaserJet MFP,Printer,South,11,198000,35640
+2025-01-08,Samsung Galaxy S24,Mobile,North,1,72000,12960
+2025-01-08,Sony WH-1000XM5,Headphones,West,3,75000,13500
+2025-01-08,Apple Watch SE,Smartwatch,South,5,150000,27000
+2025-01-09,Dell Inspiron 15,Laptop,North,5,325000,58500
+2025-01-09,HP LaserJet MFP,Printer,West,12,216000,38880
+2025-01-09,Samsung Galaxy S24,Mobile,North,5,360000,64800
+2025-01-09,Sony WH-1000XM5,Headphones,West,11,275000,49500
+2025-01-09,Apple Watch SE,Smartwatch,North,8,240000,43200
+2025-01-10,Dell Inspiron 15,Laptop,West,13,845000,152100
+2025-01-10,HP LaserJet MFP,Printer,North,14,252000,45360
+2025-01-10,Samsung Galaxy S24,Mobile,North,8,576000,103680
+2025-01-10,Sony WH-1000XM5,Headphones,West,3,75000,13500
+2025-01-10,Apple Watch SE,Smartwatch,East,13,390000,70200
+2025-01-11,Dell Inspiron 15,Laptop,North,11,715000,128700
+2025-01-11,HP LaserJet MFP,Printer,North,2,36000,6480
+2025-01-11,Samsung Galaxy S24,Mobile,North,4,288000,51840
+2025-01-11,Sony WH-1000XM5,Headphones,North,7,175000,31500
+2025-01-11,Apple Watch SE,Smartwatch,North,15,450000,81000
+2025-01-12,Dell Inspiron 15,Laptop,South,7,455000,81900
+2025-01-12,HP LaserJet MFP,Printer,East,10,180000,32400
+2025-01-12,Samsung Galaxy S24,Mobile,East,5,360000,64800
+2025-01-12,Sony WH-1000XM5,Headphones,West,1,25000,4500
+2025-01-12,Apple Watch SE,Smartwatch,West,8,240000,43200
+2025-01-13,Dell Inspiron 15,Laptop,South,6,390000,70200
+2025-01-13,HP LaserJet MFP,Printer,South,5,90000,16200
+2025-01-13,Samsung Galaxy S24,Mobile,North,5,360000,64800
+2025-01-13,Sony WH-1000XM5,Headphones,North,9,225000,40500
+2025-01-13,Apple Watch SE,Smartwatch,East,9,270000,48600
+2025-01-14,Dell Inspiron 15,Laptop,East,4,260000,46800
+2025-01-14,HP LaserJet MFP,Printer,West,11,198000,35640
+2025-01-14,Samsung Galaxy S24,Mobile,South,11,792000,142560
+2025-01-14,Sony WH-1000XM5,Headphones,East,3,75000,13500
+2025-01-14,Apple Watch SE,Smartwatch,East,3,90000,16200
+2025-01-15,Dell Inspiron 15,Laptop,West,7,455000,81900
+2025-01-15,HP LaserJet MFP,Printer,West,9,162000,29160
+2025-01-15,Samsung Galaxy S24,Mobile,North,6,432000,77760
+2025-01-15,Sony WH-1000XM5,Headphones,East,1,25000,4500
+2025-01-15,Apple Watch SE,Smartwatch,East,15,450000,81000
+2025-01-16,Dell Inspiron 15,Laptop,North,6,390000,70200
+2025-01-16,HP LaserJet MFP,Printer,West,11,198000,35640
+2025-01-16,Samsung Galaxy S24,Mobile,East,12,864000,155520
+2025-01-16,Sony WH-1000XM5,Headphones,West,1,25000,4500
+2025-01-16,Apple Watch SE,Smartwatch,North,10,300000,54000
+2025-01-17,Dell Inspiron 15,Laptop,West,7,455000,81900
+2025-01-17,HP LaserJet MFP,Printer,South,3,54000,9720
+2025-01-17,Samsung Galaxy S24,Mobile,North,10,720000,129600
+2025-01-17,Sony WH-1000XM5,Headphones,South,8,200000,36000
+2025-01-17,Apple Watch SE,Smartwatch,South,5,150000,27000
+2025-01-18,Dell Inspiron 15,Laptop,East,8,520000,93600
+2025-01-18,HP LaserJet MFP,Printer,North,8,144000,25920
+2025-01-18,Samsung Galaxy S24,Mobile,West,1,72000,12960
+2025-01-18,Sony WH-1000XM5,Headphones,North,3,75000,13500
+2025-01-18,Apple Watch SE,Smartwatch,West,14,420000,75600
+2025-01-19,Dell Inspiron 15,Laptop,North,1,65000,11700
+2025-01-19,HP LaserJet MFP,Printer,North,4,72000,12960
+2025-01-19,Samsung Galaxy S24,Mobile,South,5,360000,64800
+2025-01-19,Sony WH-1000XM5,Headphones,West,11,275000,49500
+2025-01-19,Apple Watch SE,Smartwatch,West,14,420000,75600
+2025-01-20,Dell Inspiron 15,Laptop,South,13,845000,152100
+2025-01-20,HP LaserJet MFP,Printer,North,13,234000,42120
+2025-01-20,Samsung Galaxy S24,Mobile,North,10,720000,129600
+2025-01-20,Sony WH-1000XM5,Headphones,North,11,275000,49500
+2025-01-20,Apple Watch SE,Smartwatch,East,7,210000,37800
+2025-01-21,Dell Inspiron 15,Laptop,West,6,390000,70200
+2025-01-21,HP LaserJet MFP,Printer,East,5,90000,16200
+2025-01-21,Samsung Galaxy S24,Mobile,South,10,720000,129600
+2025-01-21,Sony WH-1000XM5,Headphones,East,15,375000,67500
+2025-01-21,Apple Watch SE,Smartwatch,South,7,210000,37800
+2025-01-22,Dell Inspiron 15,Laptop,East,13,845000,152100
+2025-01-22,HP LaserJet MFP,Printer,South,6,108000,19440
+2025-01-22,Samsung Galaxy S24,Mobile,South,8,576000,103680
+2025-01-22,Sony WH-1000XM5,Headphones,East,8,200000,36000
+2025-01-22,Apple Watch SE,Smartwatch,East,10,300000,54000
+2025-01-23,Dell Inspiron 15,Laptop,West,15,975000,175500
+2025-01-23,HP LaserJet MFP,Printer,South,5,90000,16200
+2025-01-23,Samsung Galaxy S24,Mobile,North,11,792000,142560
+2025-01-23,Sony WH-1000XM5,Headphones,East,8,200000,36000
+2025-01-23,Apple Watch SE,Smartwatch,South,12,360000,64800
+2025-01-24,Dell Inspiron 15,Laptop,West,10,650000,117000
+2025-01-24,HP LaserJet MFP,Printer,South,6,108000,19440
+2025-01-24,Samsung Galaxy S24,Mobile,North,8,576000,103680
+2025-01-24,Sony WH-1000XM5,Headphones,East,2,50000,9000
+2025-01-24,Apple Watch SE,Smartwatch,South,15,450000,81000
+2025-01-25,Dell Inspiron 15,Laptop,North,8,520000,93600
+2025-01-25,HP LaserJet MFP,Printer,North,4,72000,12960
+2025-01-25,Samsung Galaxy S24,Mobile,South,6,432000,77760
+2025-01-25,Sony WH-1000XM5,Headphones,West,12,300000,54000
+2025-01-25,Apple Watch SE,Smartwatch,West,5,150000,27000
+2025-01-26,Dell Inspiron 15,Laptop,West,11,715000,128700
+2025-01-26,HP LaserJet MFP,Printer,West,15,270000,48600
+2025-01-26,Samsung Galaxy S24,Mobile,West,7,504000,90720
+2025-01-26,Sony WH-1000XM5,Headphones,North,10,250000,45000
+2025-01-26,Apple Watch SE,Smartwatch,North,4,120000,21600
+2025-01-27,Dell Inspiron 15,Laptop,West,10,650000,117000
+2025-01-27,HP LaserJet MFP,Printer,West,4,72000,12960
+2025-01-27,Samsung Galaxy S24,Mobile,West,13,936000,168480
+2025-01-27,Sony WH-1000XM5,Headphones,South,3,75000,13500
+2025-01-27,Apple Watch SE,Smartwatch,West,9,270000,48600
+2025-01-28,Dell Inspiron 15,Laptop,East,13,845000,152100
+2025-01-28,HP LaserJet MFP,Printer,West,3,54000,9720
+2025-01-28,Samsung Galaxy S24,Mobile,East,14,1008000,181440
+2025-01-28,Sony WH-1000XM5,Headphones,West,11,275000,49500
+2025-01-28,Apple Watch SE,Smartwatch,West,6,180000,32400
+2025-01-29,Dell Inspiron 15,Laptop,North,12,780000,140400
+2025-01-29,HP LaserJet MFP,Printer,East,14,252000,45360
+2025-01-29,Samsung Galaxy S24,Mobile,West,9,648000,116640
+2025-01-29,Sony WH-1000XM5,Headphones,North,1,25000,4500
+2025-01-29,Apple Watch SE,Smartwatch,South,10,300000,54000
+2025-01-30,Dell Inspiron 15,Laptop,North,6,390000,70200
+2025-01-30,HP LaserJet MFP,Printer,West,8,144000,25920
+2025-01-30,Samsung Galaxy S24,Mobile,South,7,504000,90720
+2025-01-30,Sony WH-1000XM5,Headphones,South,9,225000,40500
+2025-01-30,Apple Watch SE,Smartwatch,South,3,90000,16200
+2025-01-31,Dell Inspiron 15,Laptop,West,1,65000,11700
+2025-01-31,HP LaserJet MFP,Printer,North,5,90000,16200
+2025-01-31,Samsung Galaxy S24,Mobile,West,11,792000,142560
+2025-01-31,Sony WH-1000XM5,Headphones,West,5,125000,22500
+2025-01-31,Apple Watch SE,Smartwatch,West,8,240000,43200
+2025-02-01,Dell Inspiron 15,Laptop,West,8,520000,93600
+2025-02-01,HP LaserJet MFP,Printer,South,1,18000,3240
+2025-02-01,Samsung Galaxy S24,Mobile,South,11,792000,142560
+2025-02-01,Sony WH-1000XM5,Headphones,North,13,325000,58500
+2025-02-01,Apple Watch SE,Smartwatch,South,1,30000,5400
+2025-02-02,Dell Inspiron 15,Laptop,West,14,910000,163800
+2025-02-02,HP LaserJet MFP,Printer,West,10,180000,32400
+2025-02-02,Samsung Galaxy S24,Mobile,North,7,504000,90720
+2025-02-02,Sony WH-1000XM5,Headphones,West,11,275000,49500
+2025-02-02,Apple Watch SE,Smartwatch,North,1,30000,5400
+2025-02-03,Dell Inspiron 15,Laptop,North,14,910000,163800
+2025-02-03,HP LaserJet MFP,Printer,North,13,234000,42120
+2025-02-03,Samsung Galaxy S24,Mobile,South,3,216000,38880
+2025-02-03,Sony WH-1000XM5,Headphones,East,9,225000,40500
+2025-02-03,Apple Watch SE,Smartwatch,East,3,90000,16200
+2025-02-04,Dell Inspiron 15,Laptop,East,3,195000,35100
+2025-02-04,HP LaserJet MFP,Printer,South,9,162000,29160
+2025-02-04,Samsung Galaxy S24,Mobile,West,6,432000,77760
+2025-02-04,Sony WH-1000XM5,Headphones,South,13,325000,58500
+2025-02-04,Apple Watch SE,Smartwatch,West,6,180000,32400
+2025-02-05,Dell Inspiron 15,Laptop,South,11,715000,128700
+2025-02-05,HP LaserJet MFP,Printer,East,2,36000,6480
+2025-02-05,Samsung Galaxy S24,Mobile,East,7,504000,90720
+2025-02-05,Sony WH-1000XM5,Headphones,East,10,250000,45000
+2025-02-05,Apple Watch SE,Smartwatch,North,15,450000,81000
+2025-02-06,Dell Inspiron 15,Laptop,East,7,455000,81900
+2025-02-06,HP LaserJet MFP,Printer,North,9,162000,29160
+2025-02-06,Samsung Galaxy S24,Mobile,South,5,360000,64800
+2025-02-06,Sony WH-1000XM5,Headphones,East,7,175000,31500
+2025-02-06,Apple Watch SE,Smartwatch,East,10,300000,54000
+2025-02-07,Dell Inspiron 15,Laptop,West,9,585000,105300
+2025-02-07,HP LaserJet MFP,Printer,South,1,18000,3240
+2025-02-07,Samsung Galaxy S24,Mobile,North,6,432000,77760
+2025-02-07,Sony WH-1000XM5,Headphones,West,9,225000,40500
+2025-02-07,Apple Watch SE,Smartwatch,West,15,450000,81000
+2025-02-08,Dell Inspiron 15,Laptop,South,13,845000,152100
+2025-02-08,HP LaserJet MFP,Printer,North,15,270000,48600
+2025-02-08,Samsung Galaxy S24,Mobile,South,8,576000,103680
+2025-02-08,Sony WH-1000XM5,Headphones,North,7,175000,31500
+2025-02-08,Apple Watch SE,Smartwatch,North,7,210000,37800
+2025-02-09,Dell Inspiron 15,Laptop,South,7,455000,81900
+2025-02-09,HP LaserJet MFP,Printer,South,8,144000,25920
+2025-02-09,Samsung Galaxy S24,Mobile,North,4,288000,51840
+2025-02-09,Sony WH-1000XM5,Headphones,East,5,125000,22500
+2025-02-09,Apple Watch SE,Smartwatch,East,8,240000,43200
+2025-02-10,Dell Inspiron 15,Laptop,South,15,975000,175500
+2025-02-10,HP LaserJet MFP,Printer,West,6,108000,19440
+2025-02-10,Samsung Galaxy S24,Mobile,South,10,720000,129600
+2025-02-10,Sony WH-1000XM5,Headphones,West,6,150000,27000
+2025-02-10,Apple Watch SE,Smartwatch,North,9,270000,48600
+2025-02-11,Dell Inspiron 15,Laptop,East,7,455000,81900
+2025-02-11,HP LaserJet MFP,Printer,North,8,144000,25920
+2025-02-11,Samsung Galaxy S24,Mobile,North,9,648000,116640
+2025-02-11,Sony WH-1000XM5,Headphones,South,12,300000,54000
+2025-02-11,Apple Watch SE,Smartwatch,East,1,30000,5400
+2025-02-12,Dell Inspiron 15,Laptop,North,3,195000,35100
+2025-02-12,HP LaserJet MFP,Printer,East,14,252000,45360
+2025-02-12,Samsung Galaxy S24,Mobile,North,14,1008000,181440
+2025-02-12,Sony WH-1000XM5,Headphones,West,11,275000,49500
+2025-02-12,Apple Watch SE,Smartwatch,East,15,450000,81000
+2025-02-13,Dell Inspiron 15,Laptop,North,9,585000,105300
+2025-02-13,HP LaserJet MFP,Printer,East,6,108000,19440
+2025-02-13,Samsung Galaxy S24,Mobile,South,2,144000,25920
+2025-02-13,Sony WH-1000XM5,Headphones,West,12,300000,54000
+2025-02-13,Apple Watch SE,Smartwatch,East,7,210000,37800
+2025-02-14,Dell Inspiron 15,Laptop,North,11,715000,128700
+2025-02-14,HP LaserJet MFP,Printer,South,15,270000,48600
+2025-02-14,Samsung Galaxy S24,Mobile,South,15,1080000,194400
+2025-02-14,Sony WH-1000XM5,Headphones,North,8,200000,36000
+2025-02-14,Apple Watch SE,Smartwatch,West,5,150000,27000
+2025-02-15,Dell Inspiron 15,Laptop,South,2,130000,23400
+2025-02-15,HP LaserJet MFP,Printer,South,8,144000,25920
+2025-02-15,Samsung Galaxy S24,Mobile,West,1,72000,12960
+2025-02-15,Sony WH-1000XM5,Headphones,East,13,325000,58500
+2025-02-15,Apple Watch SE,Smartwatch,South,5,150000,27000
+2025-02-16,Dell Inspiron 15,Laptop,West,3,195000,35100
+2025-02-16,HP LaserJet MFP,Printer,North,1,18000,3240
+2025-02-16,Samsung Galaxy S24,Mobile,East,5,360000,64800
+2025-02-16,Sony WH-1000XM5,Headphones,South,9,225000,40500
+2025-02-16,Apple Watch SE,Smartwatch,South,3,90000,16200
+2025-02-17,Dell Inspiron 15,Laptop,North,13,845000,152100
+2025-02-17,HP LaserJet MFP,Printer,West,3,54000,9720
+2025-02-17,Samsung Galaxy S24,Mobile,East,1,72000,12960
+2025-02-17,Sony WH-1000XM5,Headphones,West,1,25000,4500
+2025-02-17,Apple Watch SE,Smartwatch,West,15,450000,81000
+2025-02-18,Dell Inspiron 15,Laptop,East,5,325000,58500
+2025-02-18,HP LaserJet MFP,Printer,West,14,252000,45360
+2025-02-18,Samsung Galaxy S24,Mobile,North,5,360000,64800
+2025-02-18,Sony WH-1000XM5,Headphones,North,9,225000,40500
+2025-02-18,Apple Watch SE,Smartwatch,North,14,420000,75600
+2025-02-19,Dell Inspiron 15,Laptop,West,9,585000,105300
+2025-02-19,HP LaserJet MFP,Printer,South,11,198000,35640
+2025-02-19,Samsung Galaxy S24,Mobile,North,13,936000,168480
+2025-02-19,Sony WH-1000XM5,Headphones,East,5,125000,22500
+2025-02-19,Apple Watch SE,Smartwatch,West,4,120000,21600
+2025-02-20,Dell Inspiron 15,Laptop,South,15,975000,175500
+2025-02-20,HP LaserJet MFP,Printer,East,15,270000,48600
+2025-02-20,Samsung Galaxy S24,Mobile,East,1,72000,12960
+2025-02-20,Sony WH-1000XM5,Headphones,West,4,100000,18000
+2025-02-20,Apple Watch SE,Smartwatch,North,1,30000,5400
+2025-02-21,Dell Inspiron 15,Laptop,East,9,585000,105300
+2025-02-21,HP LaserJet MFP,Printer,East,15,270000,48600
+2025-02-21,Samsung Galaxy S24,Mobile,North,5,360000,64800
+2025-02-21,Sony WH-1000XM5,Headphones,South,12,300000,54000
+2025-02-21,Apple Watch SE,Smartwatch,South,13,390000,70200
+2025-02-22,Dell Inspiron 15,Laptop,West,6,390000,70200
+2025-02-22,HP LaserJet MFP,Printer,East,10,180000,32400
+2025-02-22,Samsung Galaxy S24,Mobile,West,9,648000,116640
+2025-02-22,Sony WH-1000XM5,Headphones,North,9,225000,40500
+2025-02-22,Apple Watch SE,Smartwatch,East,6,180000,32400
+2025-02-23,Dell Inspiron 15,Laptop,East,13,845000,152100
+2025-02-23,HP LaserJet MFP,Printer,East,10,180000,32400
+2025-02-23,Samsung Galaxy S24,Mobile,East,7,504000,90720
+2025-02-23,Sony WH-1000XM5,Headphones,West,5,125000,22500
+2025-02-23,Apple Watch SE,Smartwatch,West,13,390000,70200
+2025-02-24,Dell Inspiron 15,Laptop,North,15,975000,175500
+2025-02-24,HP LaserJet MFP,Printer,North,9,162000,29160
+2025-02-24,Samsung Galaxy S24,Mobile,East,10,720000,129600
+2025-02-24,Sony WH-1000XM5,Headphones,East,10,250000,45000
+2025-02-24,Apple Watch SE,Smartwatch,West,15,450000,81000
+2025-02-25,Dell Inspiron 15,Laptop,East,7,455000,81900
+2025-02-25,HP LaserJet MFP,Printer,West,5,90000,16200
+2025-02-25,Samsung Galaxy S24,Mobile,West,7,504000,90720
+2025-02-25,Sony WH-1000XM5,Headphones,North,5,125000,22500
+2025-02-25,Apple Watch SE,Smartwatch,North,8,240000,43200
+2025-02-26,Dell Inspiron 15,Laptop,South,11,715000,128700
+2025-02-26,HP LaserJet MFP,Printer,North,14,252000,45360
+2025-02-26,Samsung Galaxy S24,Mobile,West,11,792000,142560
+2025-02-26,Sony WH-1000XM5,Headphones,East,7,175000,31500
+2025-02-26,Apple Watch SE,Smartwatch,West,15,450000,81000
+2025-02-27,Dell Inspiron 15,Laptop,North,2,130000,23400
+2025-02-27,HP LaserJet MFP,Printer,North,9,162000,29160
+2025-02-27,Samsung Galaxy S24,Mobile,South,6,432000,77760
+2025-02-27,Sony WH-1000XM5,Headphones,North,2,50000,9000
+2025-02-27,Apple Watch SE,Smartwatch,West,15,450000,81000
+2025-02-28,Dell Inspiron 15,Laptop,West,7,455000,81900
+2025-02-28,HP LaserJet MFP,Printer,North,14,252000,45360
+2025-02-28,Samsung Galaxy S24,Mobile,West,8,576000,103680
+2025-02-28,Sony WH-1000XM5,Headphones,West,11,275000,49500
+2025-02-28,Apple Watch SE,Smartwatch,East,5,150000,27000
+2025-03-01,Dell Inspiron 15,Laptop,West,13,845000,152100
+2025-03-01,HP LaserJet MFP,Printer,North,7,126000,22680
+2025-03-01,Samsung Galaxy S24,Mobile,East,1,72000,12960
+2025-03-01,Sony WH-1000XM5,Headphones,East,12,300000,54000
+2025-03-01,Apple Watch SE,Smartwatch,West,14,420000,75600
+2025-03-02,Dell Inspiron 15,Laptop,South,13,845000,152100
+2025-03-02,HP LaserJet MFP,Printer,South,15,270000,48600
+2025-03-02,Samsung Galaxy S24,Mobile,East,14,1008000,181440
+2025-03-02,Sony WH-1000XM5,Headphones,South,3,75000,13500
+2025-03-02,Apple Watch SE,Smartwatch,West,3,90000,16200
+2025-03-03,Dell Inspiron 15,Laptop,West,6,390000,70200
+2025-03-03,HP LaserJet MFP,Printer,East,1,18000,3240
+2025-03-03,Samsung Galaxy S24,Mobile,North,11,792000,142560
+2025-03-03,Sony WH-1000XM5,Headphones,North,3,75000,13500
+2025-03-03,Apple Watch SE,Smartwatch,East,4,120000,21600
+2025-03-04,Dell Inspiron 15,Laptop,South,6,390000,70200
+2025-03-04,HP LaserJet MFP,Printer,North,11,198000,35640
+2025-03-04,Samsung Galaxy S24,Mobile,West,7,504000,90720
+2025-03-04,Sony WH-1000XM5,Headphones,West,9,225000,40500
+2025-03-04,Apple Watch SE,Smartwatch,West,13,390000,70200
+2025-03-05,Dell Inspiron 15,Laptop,South,6,390000,70200
+2025-03-05,HP LaserJet MFP,Printer,East,14,252000,45360
+2025-03-05,Samsung Galaxy S24,Mobile,West,11,792000,142560
+2025-03-05,Sony WH-1000XM5,Headphones,West,4,100000,18000
+2025-03-05,Apple Watch SE,Smartwatch,South,11,330000,59400
+2025-03-06,Dell Inspiron 15,Laptop,East,12,780000,140400
+2025-03-06,HP LaserJet MFP,Printer,South,15,270000,48600
+2025-03-06,Samsung Galaxy S24,Mobile,West,8,576000,103680
+2025-03-06,Sony WH-1000XM5,Headphones,West,3,75000,13500
+2025-03-06,Apple Watch SE,Smartwatch,East,1,30000,5400
+2025-03-07,Dell Inspiron 15,Laptop,East,4,260000,46800
+2025-03-07,HP LaserJet MFP,Printer,North,6,108000,19440
+2025-03-07,Samsung Galaxy S24,Mobile,East,6,432000,77760
+2025-03-07,Sony WH-1000XM5,Headphones,South,4,100000,18000
+2025-03-07,Apple Watch SE,Smartwatch,West,7,210000,37800
+2025-03-08,Dell Inspiron 15,Laptop,East,5,325000,58500
+2025-03-08,HP LaserJet MFP,Printer,North,15,270000,48600
+2025-03-08,Samsung Galaxy S24,Mobile,West,4,288000,51840
+2025-03-08,Sony WH-1000XM5,Headphones,West,7,175000,31500
+2025-03-08,Apple Watch SE,Smartwatch,East,3,90000,16200
+2025-03-09,Dell Inspiron 15,Laptop,South,12,780000,140400
+2025-03-09,HP LaserJet MFP,Printer,North,7,126000,22680
+2025-03-09,Samsung Galaxy S24,Mobile,East,4,288000,51840
+2025-03-09,Sony WH-1000XM5,Headphones,North,13,325000,58500
+2025-03-09,Apple Watch SE,Smartwatch,West,12,360000,64800
+2025-03-10,Dell Inspiron 15,Laptop,East,8,520000,93600
+2025-03-10,HP LaserJet MFP,Printer,North,1,18000,3240
+2025-03-10,Samsung Galaxy S24,Mobile,North,6,432000,77760
+2025-03-10,Sony WH-1000XM5,Headphones,South,3,75000,13500
+2025-03-10,Apple Watch SE,Smartwatch,West,1,30000,5400
+2025-03-11,Dell Inspiron 15,Laptop,North,15,975000,175500
+2025-03-11,HP LaserJet MFP,Printer,North,3,54000,9720
+2025-03-11,Samsung Galaxy S24,Mobile,West,13,936000,168480
+2025-03-11,Sony WH-1000XM5,Headphones,West,12,300000,54000
+2025-03-11,Apple Watch SE,Smartwatch,North,10,300000,54000
+2025-03-12,Dell Inspiron 15,Laptop,North,11,715000,128700
+2025-03-12,HP LaserJet MFP,Printer,East,2,36000,6480
+2025-03-12,Samsung Galaxy S24,Mobile,West,2,144000,25920
+2025-03-12,Sony WH-1000XM5,Headphones,North,1,25000,4500
+2025-03-12,Apple Watch SE,Smartwatch,North,9,270000,48600
+2025-03-13,Dell Inspiron 15,Laptop,West,2,130000,23400
+2025-03-13,HP LaserJet MFP,Printer,North,5,90000,16200
+2025-03-13,Samsung Galaxy S24,Mobile,West,15,1080000,194400
+2025-03-13,Sony WH-1000XM5,Headphones,West,1,25000,4500
+2025-03-13,Apple Watch SE,Smartwatch,South,9,270000,48600
+2025-03-14,Dell Inspiron 15,Laptop,East,9,585000,105300
+2025-03-14,HP LaserJet MFP,Printer,West,14,252000,45360
+2025-03-14,Samsung Galaxy S24,Mobile,East,6,432000,77760
+2025-03-14,Sony WH-1000XM5,Headphones,East,12,300000,54000
+2025-03-14,Apple Watch SE,Smartwatch,West,11,330000,59400
+2025-03-15,Dell Inspiron 15,Laptop,West,4,260000,46800
+2025-03-15,HP LaserJet MFP,Printer,West,14,252000,45360
+2025-03-15,Samsung Galaxy S24,Mobile,East,8,576000,103680
+2025-03-15,Sony WH-1000XM5,Headphones,East,5,125000,22500
+2025-03-15,Apple Watch SE,Smartwatch,East,12,360000,64800
+2025-03-16,Dell Inspiron 15,Laptop,South,3,195000,35100
+2025-03-16,HP LaserJet MFP,Printer,North,1,18000,3240
+2025-03-16,Samsung Galaxy S24,Mobile,South,10,720000,129600
+2025-03-16,Sony WH-1000XM5,Headphones,South,15,375000,67500
+2025-03-16,Apple Watch SE,Smartwatch,South,12,360000,64800
+2025-03-17,Dell Inspiron 15,Laptop,North,14,910000,163800
+2025-03-17,HP LaserJet MFP,Printer,West,11,198000,35640
+2025-03-17,Samsung Galaxy S24,Mobile,East,9,648000,116640
+2025-03-17,Sony WH-1000XM5,Headphones,South,6,150000,27000
+2025-03-17,Apple Watch SE,Smartwatch,South,7,210000,37800
+2025-03-18,Dell Inspiron 15,Laptop,East,8,520000,93600
+2025-03-18,HP LaserJet MFP,Printer,East,6,108000,19440
+2025-03-18,Samsung Galaxy S24,Mobile,East,7,504000,90720
+2025-03-18,Sony WH-1000XM5,Headphones,West,3,75000,13500
+2025-03-18,Apple Watch SE,Smartwatch,West,9,270000,48600
+2025-03-19,Dell Inspiron 15,Laptop,South,6,390000,70200
+2025-03-19,HP LaserJet MFP,Printer,East,7,126000,22680
+2025-03-19,Samsung Galaxy S24,Mobile,South,4,288000,51840
+2025-03-19,Sony WH-1000XM5,Headphones,North,6,150000,27000
+2025-03-19,Apple Watch SE,Smartwatch,East,10,300000,54000
+2025-03-20,Dell Inspiron 15,Laptop,West,4,260000,46800
+2025-03-20,HP LaserJet MFP,Printer,East,8,144000,25920
+2025-03-20,Samsung Galaxy S24,Mobile,North,4,288000,51840
+2025-03-20,Sony WH-1000XM5,Headphones,West,11,275000,49500
+2025-03-20,Apple Watch SE,Smartwatch,West,14,420000,75600
+2025-03-21,Dell Inspiron 15,Laptop,East,12,780000,140400
+2025-03-21,HP LaserJet MFP,Printer,East,9,162000,29160
+2025-03-21,Samsung Galaxy S24,Mobile,West,3,216000,38880
+2025-03-21,Sony WH-1000XM5,Headphones,South,6,150000,27000
+2025-03-21,Apple Watch SE,Smartwatch,South,1,30000,5400
+2025-03-22,Dell Inspiron 15,Laptop,West,2,130000,23400
+2025-03-22,HP LaserJet MFP,Printer,South,8,144000,25920
+2025-03-22,Samsung Galaxy S24,Mobile,North,15,1080000,194400
+2025-03-22,Sony WH-1000XM5,Headphones,East,7,175000,31500
+2025-03-22,Apple Watch SE,Smartwatch,East,10,300000,54000
+2025-03-23,Dell Inspiron 15,Laptop,East,15,975000,175500
+2025-03-23,HP LaserJet MFP,Printer,North,6,108000,19440
+2025-03-23,Samsung Galaxy S24,Mobile,West,7,504000,90720
+2025-03-23,Sony WH-1000XM5,Headphones,East,5,125000,22500
+2025-03-23,Apple Watch SE,Smartwatch,East,6,180000,32400
+2025-03-24,Dell Inspiron 15,Laptop,East,15,975000,175500
+2025-03-24,HP LaserJet MFP,Printer,West,11,198000,35640
+2025-03-24,Samsung Galaxy S24,Mobile,North,10,720000,129600
+2025-03-24,Sony WH-1000XM5,Headphones,West,3,75000,13500
+2025-03-24,Apple Watch SE,Smartwatch,East,11,330000,59400
+2025-03-25,Dell Inspiron 15,Laptop,West,1,65000,11700
+2025-03-25,HP LaserJet MFP,Printer,North,2,36000,6480
+2025-03-25,Samsung Galaxy S24,Mobile,West,15,1080000,194400
+2025-03-25,Sony WH-1000XM5,Headphones,West,3,75000,13500
+2025-03-25,Apple Watch SE,Smartwatch,North,4,120000,21600
+2025-03-26,Dell Inspiron 15,Laptop,North,12,780000,140400
+2025-03-26,HP LaserJet MFP,Printer,East,14,252000,45360
+2025-03-26,Samsung Galaxy S24,Mobile,South,11,792000,142560
+2025-03-26,Sony WH-1000XM5,Headphones,North,11,275000,49500
+2025-03-26,Apple Watch SE,Smartwatch,North,10,300000,54000
+2025-03-27,Dell Inspiron 15,Laptop,West,2,130000,23400
+2025-03-27,HP LaserJet MFP,Printer,East,6,108000,19440
+2025-03-27,Samsung Galaxy S24,Mobile,South,4,288000,51840
+2025-03-27,Sony WH-1000XM5,Headphones,East,5,125000,22500
+2025-03-27,Apple Watch SE,Smartwatch,South,4,120000,21600
+2025-03-28,Dell Inspiron 15,Laptop,North,12,780000,140400
+2025-03-28,HP LaserJet MFP,Printer,West,6,108000,19440
+2025-03-28,Samsung Galaxy S24,Mobile,South,4,288000,51840
+2025-03-28,Sony WH-1000XM5,Headphones,South,2,50000,9000
+2025-03-28,Apple Watch SE,Smartwatch,East,2,60000,10800
+2025-03-29,Dell Inspiron 15,Laptop,North,2,130000,23400
+2025-03-29,HP LaserJet MFP,Printer,East,6,108000,19440
+2025-03-29,Samsung Galaxy S24,Mobile,North,9,648000,116640
+2025-03-29,Sony WH-1000XM5,Headphones,North,7,175000,31500
+2025-03-29,Apple Watch SE,Smartwatch,North,13,390000,70200
+2025-03-30,Dell Inspiron 15,Laptop,East,4,260000,46800
+2025-03-30,HP LaserJet MFP,Printer,North,5,90000,16200
+2025-03-30,Samsung Galaxy S24,Mobile,East,2,144000,25920
+2025-03-30,Sony WH-1000XM5,Headphones,East,4,100000,18000
+2025-03-30,Apple Watch SE,Smartwatch,North,12,360000,64800
+2025-03-31,Dell Inspiron 15,Laptop,East,7,455000,81900
+2025-03-31,HP LaserJet MFP,Printer,North,4,72000,12960
+2025-03-31,Samsung Galaxy S24,Mobile,West,2,144000,25920
+2025-03-31,Sony WH-1000XM5,Headphones,West,10,250000,45000
+2025-03-31,Apple Watch SE,Smartwatch,West,7,210000,37800
+2025-04-01,Dell Inspiron 15,Laptop,West,9,585000,105300
+2025-04-01,HP LaserJet MFP,Printer,East,2,36000,6480
+2025-04-01,Samsung Galaxy S24,Mobile,West,3,216000,38880
+2025-04-01,Sony WH-1000XM5,Headphones,North,11,275000,49500
+2025-04-01,Apple Watch SE,Smartwatch,West,2,60000,10800
+2025-04-02,Dell Inspiron 15,Laptop,West,3,195000,35100
+2025-04-02,HP LaserJet MFP,Printer,North,12,216000,38880
+2025-04-02,Samsung Galaxy S24,Mobile,West,10,720000,129600
+2025-04-02,Sony WH-1000XM5,Headphones,West,3,75000,13500
+2025-04-02,Apple Watch SE,Smartwatch,North,2,60000,10800
+2025-04-03,Dell Inspiron 15,Laptop,South,6,390000,70200
+2025-04-03,HP LaserJet MFP,Printer,North,12,216000,38880
+2025-04-03,Samsung Galaxy S24,Mobile,South,6,432000,77760
+2025-04-03,Sony WH-1000XM5,Headphones,South,5,125000,22500
+2025-04-03,Apple Watch SE,Smartwatch,West,15,450000,81000
+2025-04-04,Dell Inspiron 15,Laptop,East,6,390000,70200
+2025-04-04,HP LaserJet MFP,Printer,South,6,108000,19440
+2025-04-04,Samsung Galaxy S24,Mobile,West,15,1080000,194400
+2025-04-04,Sony WH-1000XM5,Headphones,North,3,75000,13500
+2025-04-04,Apple Watch SE,Smartwatch,West,13,390000,70200
+2025-04-05,Dell Inspiron 15,Laptop,West,8,520000,93600
+2025-04-05,HP LaserJet MFP,Printer,West,4,72000,12960
+2025-04-05,Samsung Galaxy S24,Mobile,South,4,288000,51840
+2025-04-05,Sony WH-1000XM5,Headphones,North,12,300000,54000
+2025-04-05,Apple Watch SE,Smartwatch,North,3,90000,16200
+2025-04-06,Dell Inspiron 15,Laptop,North,13,845000,152100
+2025-04-06,HP LaserJet MFP,Printer,West,7,126000,22680
+2025-04-06,Samsung Galaxy S24,Mobile,South,14,1008000,181440
+2025-04-06,Sony WH-1000XM5,Headphones,West,10,250000,45000
+2025-04-06,Apple Watch SE,Smartwatch,North,7,210000,37800
+2025-04-07,Dell Inspiron 15,Laptop,West,1,65000,11700
+2025-04-07,HP LaserJet MFP,Printer,South,1,18000,3240
+2025-04-07,Samsung Galaxy S24,Mobile,East,2,144000,25920
+2025-04-07,Sony WH-1000XM5,Headphones,North,14,350000,63000
+2025-04-07,Apple Watch SE,Smartwatch,North,15,450000,81000
+2025-04-08,Dell Inspiron 15,Laptop,West,8,520000,93600
+2025-04-08,HP LaserJet MFP,Printer,North,14,252000,45360
+2025-04-08,Samsung Galaxy S24,Mobile,West,11,792000,142560
+2025-04-08,Sony WH-1000XM5,Headphones,North,13,325000,58500
+2025-04-08,Apple Watch SE,Smartwatch,South,5,150000,27000
+2025-04-09,Dell Inspiron 15,Laptop,East,4,260000,46800
+2025-04-09,HP LaserJet MFP,Printer,West,10,180000,32400
+2025-04-09,Samsung Galaxy S24,Mobile,North,7,504000,90720
+2025-04-09,Sony WH-1000XM5,Headphones,South,15,375000,67500
+2025-04-09,Apple Watch SE,Smartwatch,West,6,180000,32400
+2025-04-10,Dell Inspiron 15,Laptop,North,7,455000,81900
+2025-04-10,HP LaserJet MFP,Printer,West,8,144000,25920
+2025-04-10,Samsung Galaxy S24,Mobile,North,11,792000,142560
+2025-04-10,Sony WH-1000XM5,Headphones,West,15,375000,67500
+2025-04-10,Apple Watch SE,Smartwatch,West,8,240000,43200
+2025-04-11,Dell Inspiron 15,Laptop,West,14,910000,163800
+2025-04-11,HP LaserJet MFP,Printer,South,13,234000,42120
+2025-04-11,Samsung Galaxy S24,Mobile,South,14,1008000,181440
+2025-04-11,Sony WH-1000XM5,Headphones,West,5,125000,22500
+2025-04-11,Apple Watch SE,Smartwatch,North,4,120000,21600
+2025-04-12,Dell Inspiron 15,Laptop,West,1,65000,11700
+2025-04-12,HP LaserJet MFP,Printer,West,15,270000,48600
+2025-04-12,Samsung Galaxy S24,Mobile,South,6,432000,77760
+2025-04-12,Sony WH-1000XM5,Headphones,East,6,150000,27000
+2025-04-12,Apple Watch SE,Smartwatch,East,6,180000,32400
+2025-04-13,Dell Inspiron 15,Laptop,West,1,65000,11700
+2025-04-13,HP LaserJet MFP,Printer,North,3,54000,9720
+2025-04-13,Samsung Galaxy S24,Mobile,East,14,1008000,181440
+2025-04-13,Sony WH-1000XM5,Headphones,South,11,275000,49500
+2025-04-13,Apple Watch SE,Smartwatch,South,6,180000,32400
+2025-04-14,Dell Inspiron 15,Laptop,East,15,975000,175500
+2025-04-14,HP LaserJet MFP,Printer,North,7,126000,22680
+2025-04-14,Samsung Galaxy S24,Mobile,South,10,720000,129600
+2025-04-14,Sony WH-1000XM5,Headphones,North,12,300000,54000
+2025-04-14,Apple Watch SE,Smartwatch,East,1,30000,5400
+2025-04-15,Dell Inspiron 15,Laptop,East,13,845000,152100
+2025-04-15,HP LaserJet MFP,Printer,West,6,108000,19440
+2025-04-15,Samsung Galaxy S24,Mobile,East,1,72000,12960
+2025-04-15,Sony WH-1000XM5,Headphones,North,7,175000,31500
+2025-04-15,Apple Watch SE,Smartwatch,South,1,30000,5400
+2025-04-16,Dell Inspiron 15,Laptop,South,1,65000,11700
+2025-04-16,HP LaserJet MFP,Printer,East,9,162000,29160
+2025-04-16,Samsung Galaxy S24,Mobile,East,11,792000,142560
+2025-04-16,Sony WH-1000XM5,Headphones,West,3,75000,13500
+2025-04-16,Apple Watch SE,Smartwatch,South,1,30000,5400
+2025-04-17,Dell Inspiron 15,Laptop,West,11,715000,128700
+2025-04-17,HP LaserJet MFP,Printer,North,3,54000,9720
+2025-04-17,Samsung Galaxy S24,Mobile,East,1,72000,12960
+2025-04-17,Sony WH-1000XM5,Headphones,West,9,225000,40500
+2025-04-17,Apple Watch SE,Smartwatch,West,11,330000,59400
+2025-04-18,Dell Inspiron 15,Laptop,North,1,65000,11700
+2025-04-18,HP LaserJet MFP,Printer,West,2,36000,6480
+2025-04-18,Samsung Galaxy S24,Mobile,South,4,288000,51840
+2025-04-18,Sony WH-1000XM5,Headphones,East,10,250000,45000
+2025-04-18,Apple Watch SE,Smartwatch,South,14,420000,75600
+2025-04-19,Dell Inspiron 15,Laptop,North,3,195000,35100
+2025-04-19,HP LaserJet MFP,Printer,South,2,36000,6480
+2025-04-19,Samsung Galaxy S24,Mobile,North,5,360000,64800
+2025-04-19,Sony WH-1000XM5,Headphones,East,4,100000,18000
+2025-04-19,Apple Watch SE,Smartwatch,West,3,90000,16200
+2025-04-20,Dell Inspiron 15,Laptop,South,15,975000,175500
+2025-04-20,HP LaserJet MFP,Printer,North,4,72000,12960
+2025-04-20,Samsung Galaxy S24,Mobile,North,15,1080000,194400
+2025-04-20,Sony WH-1000XM5,Headphones,South,2,50000,9000
+2025-04-20,Apple Watch SE,Smartwatch,East,3,90000,16200
+2025-04-21,Dell Inspiron 15,Laptop,West,9,585000,105300
+2025-04-21,HP LaserJet MFP,Printer,West,12,216000,38880
+2025-04-21,Samsung Galaxy S24,Mobile,South,8,576000,103680
+2025-04-21,Sony WH-1000XM5,Headphones,West,3,75000,13500
+2025-04-21,Apple Watch SE,Smartwatch,East,13,390000,70200
+2025-04-22,Dell Inspiron 15,Laptop,South,8,520000,93600
+2025-04-22,HP LaserJet MFP,Printer,North,3,54000,9720
+2025-04-22,Samsung Galaxy S24,Mobile,South,2,144000,25920
+2025-04-22,Sony WH-1000XM5,Headphones,North,5,125000,22500
+2025-04-22,Apple Watch SE,Smartwatch,East,2,60000,10800
+2025-04-23,Dell Inspiron 15,Laptop,West,6,390000,70200
+2025-04-23,HP LaserJet MFP,Printer,West,11,198000,35640
+2025-04-23,Samsung Galaxy S24,Mobile,South,13,936000,168480
+2025-04-23,Sony WH-1000XM5,Headphones,North,6,150000,27000
+2025-04-23,Apple Watch SE,Smartwatch,West,14,420000,75600
+2025-04-24,Dell Inspiron 15,Laptop,West,13,845000,152100
+2025-04-24,HP LaserJet MFP,Printer,North,2,36000,6480
+2025-04-24,Samsung Galaxy S24,Mobile,West,3,216000,38880
+2025-04-24,Sony WH-1000XM5,Headphones,South,3,75000,13500
+2025-04-24,Apple Watch SE,Smartwatch,West,12,360000,64800
+2025-04-25,Dell Inspiron 15,Laptop,South,3,195000,35100
+2025-04-25,HP LaserJet MFP,Printer,West,13,234000,42120
+2025-04-25,Samsung Galaxy S24,Mobile,North,14,1008000,181440
+2025-04-25,Sony WH-1000XM5,Headphones,East,13,325000,58500
+2025-04-25,Apple Watch SE,Smartwatch,North,3,90000,16200
+2025-04-26,Dell Inspiron 15,Laptop,North,10,650000,117000
+2025-04-26,HP LaserJet MFP,Printer,North,13,234000,42120
+2025-04-26,Samsung Galaxy S24,Mobile,South,9,648000,116640
+2025-04-26,Sony WH-1000XM5,Headphones,South,7,175000,31500
+2025-04-26,Apple Watch SE,Smartwatch,South,14,420000,75600
+2025-04-27,Dell Inspiron 15,Laptop,South,14,910000,163800
+2025-04-27,HP LaserJet MFP,Printer,South,12,216000,38880
+2025-04-27,Samsung Galaxy S24,Mobile,North,6,432000,77760
+2025-04-27,Sony WH-1000XM5,Headphones,East,12,300000,54000
+2025-04-27,Apple Watch SE,Smartwatch,East,13,390000,70200
+2025-04-28,Dell Inspiron 15,Laptop,East,15,975000,175500
+2025-04-28,HP LaserJet MFP,Printer,East,11,198000,35640
+2025-04-28,Samsung Galaxy S24,Mobile,South,8,576000,103680
+2025-04-28,Sony WH-1000XM5,Headphones,North,1,25000,4500
+2025-04-28,Apple Watch SE,Smartwatch,North,9,270000,48600
+2025-04-29,Dell Inspiron 15,Laptop,South,13,845000,152100
+2025-04-29,HP LaserJet MFP,Printer,West,15,270000,48600
+2025-04-29,Samsung Galaxy S24,Mobile,West,5,360000,64800
+2025-04-29,Sony WH-1000XM5,Headphones,West,9,225000,40500
+2025-04-29,Apple Watch SE,Smartwatch,East,13,390000,70200
+2025-04-30,Dell Inspiron 15,Laptop,West,6,390000,70200
+2025-04-30,HP LaserJet MFP,Printer,North,12,216000,38880
+2025-04-30,Samsung Galaxy S24,Mobile,East,9,648000,116640
+2025-04-30,Sony WH-1000XM5,Headphones,East,1,25000,4500
+2025-04-30,Apple Watch SE,Smartwatch,North,11,330000,59400
+2025-05-01,Dell Inspiron 15,Laptop,North,11,715000,128700
+2025-05-01,HP LaserJet MFP,Printer,South,4,72000,12960
+2025-05-01,Samsung Galaxy S24,Mobile,South,12,864000,155520
+2025-05-01,Sony WH-1000XM5,Headphones,South,8,200000,36000
+2025-05-01,Apple Watch SE,Smartwatch,North,2,60000,10800
+2025-05-02,Dell Inspiron 15,Laptop,South,10,650000,117000
+2025-05-02,HP LaserJet MFP,Printer,East,15,270000,48600
+2025-05-02,Samsung Galaxy S24,Mobile,South,6,432000,77760
+2025-05-02,Sony WH-1000XM5,Headphones,West,5,125000,22500
+2025-05-02,Apple Watch SE,Smartwatch,West,9,270000,48600
+2025-05-03,Dell Inspiron 15,Laptop,South,10,650000,117000
+2025-05-03,HP LaserJet MFP,Printer,North,13,234000,42120
+2025-05-03,Samsung Galaxy S24,Mobile,West,1,72000,12960
+2025-05-03,Sony WH-1000XM5,Headphones,West,4,100000,18000
+2025-05-03,Apple Watch SE,Smartwatch,East,3,90000,16200
+2025-05-04,Dell Inspiron 15,Laptop,East,5,325000,58500
+2025-05-04,HP LaserJet MFP,Printer,West,5,90000,16200
+2025-05-04,Samsung Galaxy S24,Mobile,East,13,936000,168480
+2025-05-04,Sony WH-1000XM5,Headphones,North,10,250000,45000
+2025-05-04,Apple Watch SE,Smartwatch,East,11,330000,59400
+2025-05-05,Dell Inspiron 15,Laptop,East,6,390000,70200
+2025-05-05,HP LaserJet MFP,Printer,North,8,144000,25920
+2025-05-05,Samsung Galaxy S24,Mobile,South,5,360000,64800
+2025-05-05,Sony WH-1000XM5,Headphones,East,8,200000,36000
+2025-05-05,Apple Watch SE,Smartwatch,East,3,90000,16200
+2025-05-06,Dell Inspiron 15,Laptop,North,7,455000,81900
+2025-05-06,HP LaserJet MFP,Printer,North,6,108000,19440
+2025-05-06,Samsung Galaxy S24,Mobile,East,2,144000,25920
+2025-05-06,Sony WH-1000XM5,Headphones,West,9,225000,40500
+2025-05-06,Apple Watch SE,Smartwatch,North,8,240000,43200
+2025-05-07,Dell Inspiron 15,Laptop,East,9,585000,105300
+2025-05-07,HP LaserJet MFP,Printer,South,3,54000,9720
+2025-05-07,Samsung Galaxy S24,Mobile,North,13,936000,168480
+2025-05-07,Sony WH-1000XM5,Headphones,West,14,350000,63000
+2025-05-07,Apple Watch SE,Smartwatch,East,11,330000,59400
+2025-05-08,Dell Inspiron 15,Laptop,East,8,520000,93600
+2025-05-08,HP LaserJet MFP,Printer,North,1,18000,3240
+2025-05-08,Samsung Galaxy S24,Mobile,North,6,432000,77760
+2025-05-08,Sony WH-1000XM5,Headphones,South,4,100000,18000
+2025-05-08,Apple Watch SE,Smartwatch,West,6,180000,32400
+2025-05-09,Dell Inspiron 15,Laptop,North,10,650000,117000
+2025-05-09,HP LaserJet MFP,Printer,East,4,72000,12960
+2025-05-09,Samsung Galaxy S24,Mobile,West,7,504000,90720
+2025-05-09,Sony WH-1000XM5,Headphones,North,9,225000,40500
+2025-05-09,Apple Watch SE,Smartwatch,North,3,90000,16200
+2025-05-10,Dell Inspiron 15,Laptop,South,15,975000,175500
+2025-05-10,HP LaserJet MFP,Printer,East,8,144000,25920
+2025-05-10,Samsung Galaxy S24,Mobile,North,4,288000,51840
+2025-05-10,Sony WH-1000XM5,Headphones,West,11,275000,49500
+2025-05-10,Apple Watch SE,Smartwatch,North,15,450000,81000
+2025-05-11,Dell Inspiron 15,Laptop,East,15,975000,175500
+2025-05-11,HP LaserJet MFP,Printer,East,4,72000,12960
+2025-05-11,Samsung Galaxy S24,Mobile,East,11,792000,142560
+2025-05-11,Sony WH-1000XM5,Headphones,West,7,175000,31500
+2025-05-11,Apple Watch SE,Smartwatch,South,1,30000,5400
+2025-05-12,Dell Inspiron 15,Laptop,West,5,325000,58500
+2025-05-12,HP LaserJet MFP,Printer,North,6,108000,19440
+2025-05-12,Samsung Galaxy S24,Mobile,East,5,360000,64800
+2025-05-12,Sony WH-1000XM5,Headphones,South,9,225000,40500
+2025-05-12,Apple Watch SE,Smartwatch,North,8,240000,43200
+2025-05-13,Dell Inspiron 15,Laptop,North,4,260000,46800
+2025-05-13,HP LaserJet MFP,Printer,East,5,90000,16200
+2025-05-13,Samsung Galaxy S24,Mobile,North,14,1008000,181440
+2025-05-13,Sony WH-1000XM5,Headphones,West,12,300000,54000
+2025-05-13,Apple Watch SE,Smartwatch,South,12,360000,64800
+2025-05-14,Dell Inspiron 15,Laptop,East,11,715000,128700
+2025-05-14,HP LaserJet MFP,Printer,East,1,18000,3240
+2025-05-14,Samsung Galaxy S24,Mobile,East,6,432000,77760
+2025-05-14,Sony WH-1000XM5,Headphones,West,11,275000,49500
+2025-05-14,Apple Watch SE,Smartwatch,North,2,60000,10800
+2025-05-15,Dell Inspiron 15,Laptop,West,15,975000,175500
+2025-05-15,HP LaserJet MFP,Printer,North,10,180000,32400
+2025-05-15,Samsung Galaxy S24,Mobile,East,6,432000,77760
+2025-05-15,Sony WH-1000XM5,Headphones,South,6,150000,27000
+2025-05-15,Apple Watch SE,Smartwatch,North,6,180000,32400
+2025-05-16,Dell Inspiron 15,Laptop,South,1,65000,11700
+2025-05-16,HP LaserJet MFP,Printer,South,4,72000,12960
+2025-05-16,Samsung Galaxy S24,Mobile,North,15,1080000,194400
+2025-05-16,Sony WH-1000XM5,Headphones,North,14,350000,63000
+2025-05-16,Apple Watch SE,Smartwatch,North,12,360000,64800
+2025-05-17,Dell Inspiron 15,Laptop,East,5,325000,58500
+2025-05-17,HP LaserJet MFP,Printer,South,14,252000,45360
+2025-05-17,Samsung Galaxy S24,Mobile,North,12,864000,155520
+2025-05-17,Sony WH-1000XM5,Headphones,East,7,175000,31500
+2025-05-17,Apple Watch SE,Smartwatch,North,7,210000,37800
+2025-05-18,Dell Inspiron 15,Laptop,North,4,260000,46800
+2025-05-18,HP LaserJet MFP,Printer,West,6,108000,19440
+2025-05-18,Samsung Galaxy S24,Mobile,West,10,720000,129600
+2025-05-18,Sony WH-1000XM5,Headphones,West,14,350000,63000
+2025-05-18,Apple Watch SE,Smartwatch,East,1,30000,5400
+2025-05-19,Dell Inspiron 15,Laptop,West,11,715000,128700
+2025-05-19,HP LaserJet MFP,Printer,East,6,108000,19440
+2025-05-19,Samsung Galaxy S24,Mobile,West,8,576000,103680
+2025-05-19,Sony WH-1000XM5,Headphones,North,8,200000,36000
+2025-05-19,Apple Watch SE,Smartwatch,North,13,390000,70200
+2025-05-20,Dell Inspiron 15,Laptop,East,3,195000,35100
+2025-05-20,HP LaserJet MFP,Printer,South,3,54000,9720
+2025-05-20,Samsung Galaxy S24,Mobile,East,6,432000,77760
+2025-05-20,Sony WH-1000XM5,Headphones,West,12,300000,54000
+2025-05-20,Apple Watch SE,Smartwatch,North,11,330000,59400
+2025-05-21,Dell Inspiron 15,Laptop,North,15,975000,175500
+2025-05-21,HP LaserJet MFP,Printer,South,4,72000,12960
+2025-05-21,Samsung Galaxy S24,Mobile,South,3,216000,38880
+2025-05-21,Sony WH-1000XM5,Headphones,East,14,350000,63000
+2025-05-21,Apple Watch SE,Smartwatch,North,5,150000,27000
+2025-05-22,Dell Inspiron 15,Laptop,West,13,845000,152100
+2025-05-22,HP LaserJet MFP,Printer,East,10,180000,32400
+2025-05-22,Samsung Galaxy S24,Mobile,East,5,360000,64800
+2025-05-22,Sony WH-1000XM5,Headphones,South,10,250000,45000
+2025-05-22,Apple Watch SE,Smartwatch,South,2,60000,10800
+2025-05-23,Dell Inspiron 15,Laptop,West,5,325000,58500
+2025-05-23,HP LaserJet MFP,Printer,North,5,90000,16200
+2025-05-23,Samsung Galaxy S24,Mobile,North,6,432000,77760
+2025-05-23,Sony WH-1000XM5,Headphones,South,3,75000,13500
+2025-05-23,Apple Watch SE,Smartwatch,East,7,210000,37800
+2025-05-24,Dell Inspiron 15,Laptop,South,2,130000,23400
+2025-05-24,HP LaserJet MFP,Printer,East,3,54000,9720
+2025-05-24,Samsung Galaxy S24,Mobile,East,8,576000,103680
+2025-05-24,Sony WH-1000XM5,Headphones,East,9,225000,40500
+2025-05-24,Apple Watch SE,Smartwatch,West,1,30000,5400
+2025-05-25,Dell Inspiron 15,Laptop,West,13,845000,152100
+2025-05-25,HP LaserJet MFP,Printer,West,15,270000,48600
+2025-05-25,Samsung Galaxy S24,Mobile,South,15,1080000,194400
+2025-05-25,Sony WH-1000XM5,Headphones,North,4,100000,18000
+2025-05-25,Apple Watch SE,Smartwatch,East,5,150000,27000
+2025-05-26,Dell Inspiron 15,Laptop,South,1,65000,11700
+2025-05-26,HP LaserJet MFP,Printer,West,3,54000,9720
+2025-05-26,Samsung Galaxy S24,Mobile,East,5,360000,64800
+2025-05-26,Sony WH-1000XM5,Headphones,South,7,175000,31500
+2025-05-26,Apple Watch SE,Smartwatch,West,9,270000,48600
+2025-05-27,Dell Inspiron 15,Laptop,North,11,715000,128700
+2025-05-27,HP LaserJet MFP,Printer,North,10,180000,32400
+2025-05-27,Samsung Galaxy S24,Mobile,West,15,1080000,194400
+2025-05-27,Sony WH-1000XM5,Headphones,North,2,50000,9000
+2025-05-27,Apple Watch SE,Smartwatch,South,10,300000,54000
+2025-05-28,Dell Inspiron 15,Laptop,West,10,650000,117000
+2025-05-28,HP LaserJet MFP,Printer,South,6,108000,19440
+2025-05-28,Samsung Galaxy S24,Mobile,West,4,288000,51840
+2025-05-28,Sony WH-1000XM5,Headphones,East,13,325000,58500
+2025-05-28,Apple Watch SE,Smartwatch,East,3,90000,16200
+2025-05-29,Dell Inspiron 15,Laptop,West,2,130000,23400
+2025-05-29,HP LaserJet MFP,Printer,North,5,90000,16200
+2025-05-29,Samsung Galaxy S24,Mobile,West,11,792000,142560
+2025-05-29,Sony WH-1000XM5,Headphones,North,6,150000,27000
+2025-05-29,Apple Watch SE,Smartwatch,South,5,150000,27000
+2025-05-30,Dell Inspiron 15,Laptop,East,14,910000,163800
+2025-05-30,HP LaserJet MFP,Printer,East,8,144000,25920
+2025-05-30,Samsung Galaxy S24,Mobile,North,13,936000,168480
+2025-05-30,Sony WH-1000XM5,Headphones,East,10,250000,45000
+2025-05-30,Apple Watch SE,Smartwatch,North,10,300000,54000
+2025-05-31,Dell Inspiron 15,Laptop,East,12,780000,140400
+2025-05-31,HP LaserJet MFP,Printer,West,14,252000,45360
+2025-05-31,Samsung Galaxy S24,Mobile,South,10,720000,129600
+2025-05-31,Sony WH-1000XM5,Headphones,North,4,100000,18000
+2025-05-31,Apple Watch SE,Smartwatch,West,15,450000,81000
+2025-06-01,Dell Inspiron 15,Laptop,East,7,455000,81900
+2025-06-01,HP LaserJet MFP,Printer,East,5,90000,16200
+2025-06-01,Samsung Galaxy S24,Mobile,West,4,288000,51840
+2025-06-01,Sony WH-1000XM5,Headphones,West,14,350000,63000
+2025-06-01,Apple Watch SE,Smartwatch,East,14,420000,75600
+2025-06-02,Dell Inspiron 15,Laptop,West,14,910000,163800
+2025-06-02,HP LaserJet MFP,Printer,South,14,252000,45360
+2025-06-02,Samsung Galaxy S24,Mobile,West,6,432000,77760
+2025-06-02,Sony WH-1000XM5,Headphones,East,2,50000,9000
+2025-06-02,Apple Watch SE,Smartwatch,West,1,30000,5400
+2025-06-03,Dell Inspiron 15,Laptop,East,10,650000,117000
+2025-06-03,HP LaserJet MFP,Printer,North,13,234000,42120
+2025-06-03,Samsung Galaxy S24,Mobile,West,9,648000,116640
+2025-06-03,Sony WH-1000XM5,Headphones,West,13,325000,58500
+2025-06-03,Apple Watch SE,Smartwatch,West,12,360000,64800
+2025-06-04,Dell Inspiron 15,Laptop,East,2,130000,23400
+2025-06-04,HP LaserJet MFP,Printer,West,12,216000,38880
+2025-06-04,Samsung Galaxy S24,Mobile,East,14,1008000,181440
+2025-06-04,Sony WH-1000XM5,Headphones,North,4,100000,18000
+2025-06-04,Apple Watch SE,Smartwatch,South,4,120000,21600
+2025-06-05,Dell Inspiron 15,Laptop,South,9,585000,105300
+2025-06-05,HP LaserJet MFP,Printer,West,3,54000,9720
+2025-06-05,Samsung Galaxy S24,Mobile,South,3,216000,38880
+2025-06-05,Sony WH-1000XM5,Headphones,South,10,250000,45000
+2025-06-05,Apple Watch SE,Smartwatch,East,3,90000,16200
+2025-06-06,Dell Inspiron 15,Laptop,South,15,975000,175500
+2025-06-06,HP LaserJet MFP,Printer,East,2,36000,6480
+2025-06-06,Samsung Galaxy S24,Mobile,West,3,216000,38880
+2025-06-06,Sony WH-1000XM5,Headphones,South,4,100000,18000
+2025-06-06,Apple Watch SE,Smartwatch,South,14,420000,75600
+2025-06-07,Dell Inspiron 15,Laptop,West,7,455000,81900
+2025-06-07,HP LaserJet MFP,Printer,North,14,252000,45360
+2025-06-07,Samsung Galaxy S24,Mobile,East,6,432000,77760
+2025-06-07,Sony WH-1000XM5,Headphones,North,10,250000,45000
+2025-06-07,Apple Watch SE,Smartwatch,North,5,150000,27000
+2025-06-08,Dell Inspiron 15,Laptop,South,15,975000,175500
+2025-06-08,HP LaserJet MFP,Printer,East,13,234000,42120
+2025-06-08,Samsung Galaxy S24,Mobile,West,5,360000,64800
+2025-06-08,Sony WH-1000XM5,Headphones,North,13,325000,58500
+2025-06-08,Apple Watch SE,Smartwatch,South,11,330000,59400
+2025-06-09,Dell Inspiron 15,Laptop,North,13,845000,152100
+2025-06-09,HP LaserJet MFP,Printer,West,13,234000,42120
+2025-06-09,Samsung Galaxy S24,Mobile,East,9,648000,116640
+2025-06-09,Sony WH-1000XM5,Headphones,North,8,200000,36000
+2025-06-09,Apple Watch SE,Smartwatch,West,4,120000,21600
+2025-06-10,Dell Inspiron 15,Laptop,North,4,260000,46800
+2025-06-10,HP LaserJet MFP,Printer,South,6,108000,19440
+2025-06-10,Samsung Galaxy S24,Mobile,North,11,792000,142560
+2025-06-10,Sony WH-1000XM5,Headphones,West,8,200000,36000
+2025-06-10,Apple Watch SE,Smartwatch,North,7,210000,37800
+2025-06-11,Dell Inspiron 15,Laptop,South,15,975000,175500
+2025-06-11,HP LaserJet MFP,Printer,South,5,90000,16200
+2025-06-11,Samsung Galaxy S24,Mobile,North,9,648000,116640
+2025-06-11,Sony WH-1000XM5,Headphones,South,2,50000,9000
+2025-06-11,Apple Watch SE,Smartwatch,East,12,360000,64800
+2025-06-12,Dell Inspiron 15,Laptop,North,13,845000,152100
+2025-06-12,HP LaserJet MFP,Printer,East,9,162000,29160
+2025-06-12,Samsung Galaxy S24,Mobile,West,13,936000,168480
+2025-06-12,Sony WH-1000XM5,Headphones,West,11,275000,49500
+2025-06-12,Apple Watch SE,Smartwatch,East,7,210000,37800
+2025-06-13,Dell Inspiron 15,Laptop,East,1,65000,11700
+2025-06-13,HP LaserJet MFP,Printer,East,6,108000,19440
+2025-06-13,Samsung Galaxy S24,Mobile,West,14,1008000,181440
+2025-06-13,Sony WH-1000XM5,Headphones,South,5,125000,22500
+2025-06-13,Apple Watch SE,Smartwatch,South,4,120000,21600
+2025-06-14,Dell Inspiron 15,Laptop,West,15,975000,175500
+2025-06-14,HP LaserJet MFP,Printer,East,11,198000,35640
+2025-06-14,Samsung Galaxy S24,Mobile,West,4,288000,51840
+2025-06-14,Sony WH-1000XM5,Headphones,West,4,100000,18000
+2025-06-14,Apple Watch SE,Smartwatch,East,4,120000,21600
+2025-06-15,Dell Inspiron 15,Laptop,West,13,845000,152100
+2025-06-15,HP LaserJet MFP,Printer,West,12,216000,38880
+2025-06-15,Samsung Galaxy S24,Mobile,East,3,216000,38880
+2025-06-15,Sony WH-1000XM5,Headphones,North,15,375000,67500
+2025-06-15,Apple Watch SE,Smartwatch,South,2,60000,10800
+2025-06-16,Dell Inspiron 15,Laptop,West,14,910000,163800
+2025-06-16,HP LaserJet MFP,Printer,South,6,108000,19440
+2025-06-16,Samsung Galaxy S24,Mobile,South,11,792000,142560
+2025-06-16,Sony WH-1000XM5,Headphones,East,7,175000,31500
+2025-06-16,Apple Watch SE,Smartwatch,North,10,300000,54000
+2025-06-17,Dell Inspiron 15,Laptop,South,13,845000,152100
+2025-06-17,HP LaserJet MFP,Printer,East,2,36000,6480
+2025-06-17,Samsung Galaxy S24,Mobile,North,1,72000,12960
+2025-06-17,Sony WH-1000XM5,Headphones,North,12,300000,54000
+2025-06-17,Apple Watch SE,Smartwatch,South,9,270000,48600
+2025-06-18,Dell Inspiron 15,Laptop,North,7,455000,81900
+2025-06-18,HP LaserJet MFP,Printer,East,5,90000,16200
+2025-06-18,Samsung Galaxy S24,Mobile,North,2,144000,25920
+2025-06-18,Sony WH-1000XM5,Headphones,South,11,275000,49500
+2025-06-18,Apple Watch SE,Smartwatch,West,9,270000,48600
+2025-06-19,Dell Inspiron 15,Laptop,West,5,325000,58500
+2025-06-19,HP LaserJet MFP,Printer,East,11,198000,35640
+2025-06-19,Samsung Galaxy S24,Mobile,East,9,648000,116640
+2025-06-19,Sony WH-1000XM5,Headphones,North,4,100000,18000
+2025-06-19,Apple Watch SE,Smartwatch,North,12,360000,64800
+2025-06-20,Dell Inspiron 15,Laptop,South,12,780000,140400
+2025-06-20,HP LaserJet MFP,Printer,South,15,270000,48600
+2025-06-20,Samsung Galaxy S24,Mobile,East,5,360000,64800
+2025-06-20,Sony WH-1000XM5,Headphones,East,1,25000,4500
+2025-06-20,Apple Watch SE,Smartwatch,West,5,150000,27000
+2025-06-21,Dell Inspiron 15,Laptop,West,14,910000,163800
+2025-06-21,HP LaserJet MFP,Printer,South,11,198000,35640
+2025-06-21,Samsung Galaxy S24,Mobile,North,3,216000,38880
+2025-06-21,Sony WH-1000XM5,Headphones,North,4,100000,18000
+2025-06-21,Apple Watch SE,Smartwatch,South,8,240000,43200
+2025-06-22,Dell Inspiron 15,Laptop,West,8,520000,93600
+2025-06-22,HP LaserJet MFP,Printer,East,7,126000,22680
+2025-06-22,Samsung Galaxy S24,Mobile,East,9,648000,116640
+2025-06-22,Sony WH-1000XM5,Headphones,North,10,250000,45000
+2025-06-22,Apple Watch SE,Smartwatch,West,14,420000,75600
+2025-06-23,Dell Inspiron 15,Laptop,West,15,975000,175500
+2025-06-23,HP LaserJet MFP,Printer,West,14,252000,45360
+2025-06-23,Samsung Galaxy S24,Mobile,West,2,144000,25920
+2025-06-23,Sony WH-1000XM5,Headphones,West,15,375000,67500
+2025-06-23,Apple Watch SE,Smartwatch,North,3,90000,16200
+2025-06-24,Dell Inspiron 15,Laptop,North,6,390000,70200
+2025-06-24,HP LaserJet MFP,Printer,South,14,252000,45360
+2025-06-24,Samsung Galaxy S24,Mobile,West,4,288000,51840
+2025-06-24,Sony WH-1000XM5,Headphones,North,6,150000,27000
+2025-06-24,Apple Watch SE,Smartwatch,West,9,270000,48600
+2025-06-25,Dell Inspiron 15,Laptop,West,11,715000,128700
+2025-06-25,HP LaserJet MFP,Printer,East,8,144000,25920
+2025-06-25,Samsung Galaxy S24,Mobile,East,13,936000,168480
+2025-06-25,Sony WH-1000XM5,Headphones,East,14,350000,63000
+2025-06-25,Apple Watch SE,Smartwatch,South,11,330000,59400
+2025-06-26,Dell Inspiron 15,Laptop,South,12,780000,140400
+2025-06-26,HP LaserJet MFP,Printer,North,10,180000,32400
+2025-06-26,Samsung Galaxy S24,Mobile,West,7,504000,90720
+2025-06-26,Sony WH-1000XM5,Headphones,South,7,175000,31500
+2025-06-26,Apple Watch SE,Smartwatch,East,7,210000,37800
+2025-06-27,Dell Inspiron 15,Laptop,North,3,195000,35100
+2025-06-27,HP LaserJet MFP,Printer,South,12,216000,38880
+2025-06-27,Samsung Galaxy S24,Mobile,North,8,576000,103680
+2025-06-27,Sony WH-1000XM5,Headphones,East,11,275000,49500
+2025-06-27,Apple Watch SE,Smartwatch,South,6,180000,32400
+2025-06-28,Dell Inspiron 15,Laptop,North,3,195000,35100
+2025-06-28,HP LaserJet MFP,Printer,South,3,54000,9720
+2025-06-28,Samsung Galaxy S24,Mobile,North,15,1080000,194400
+2025-06-28,Sony WH-1000XM5,Headphones,West,1,25000,4500
+2025-06-28,Apple Watch SE,Smartwatch,West,10,300000,54000
+2025-06-29,Dell Inspiron 15,Laptop,West,1,65000,11700
+2025-06-29,HP LaserJet MFP,Printer,West,14,252000,45360
+2025-06-29,Samsung Galaxy S24,Mobile,West,14,1008000,181440
+2025-06-29,Sony WH-1000XM5,Headphones,West,1,25000,4500
+2025-06-29,Apple Watch SE,Smartwatch,North,3,90000,16200

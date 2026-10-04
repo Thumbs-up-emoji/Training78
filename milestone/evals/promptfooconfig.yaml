@@ -1,0 +1,61 @@
+# Promptfoo configuration for the Milestone-4 LLM Evaluation Tool.
+#
+# This is a REAL Promptfoo config (run with `npx promptfoo eval -c evals/promptfooconfig.yaml`
+# once Node.js + `npm install -g promptfoo` are available). It exercises the
+# same evaluation dataset (Milestone4_Datasets/evaluation_dataset.json) and
+# the same assertion semantics implemented in pure Python by
+# `app.governance.evaluation.PromptfooEvaluator`, so:
+#
+#   - CI/pytest run `PromptfooEvaluator` (deterministic, offline, no Node.js
+#     toolchain, no API key) via `python -m pytest` / `python scripts/eval_gate.py`.
+#   - A developer with Node.js + an LLM provider configured can additionally
+#     run this file for a "real" Promptfoo eval against a live model.
+#
+# Keep the two in sync: any new case added to evaluation_dataset.json /
+# evals/EVAL_SPECS.md should get a matching `tests:` entry below.
+
+description: "Milestone 4 Enterprise AI Governance Platform - LLM Evaluation Tool"
+
+prompts:
+  - "{{prompt}}"
+
+# Offline-deterministic provider: echoes back the expected answer, mirroring
+# `EvaluationEngine.default_system_under_test`. Replace `id` with a real
+# provider (e.g. `openai:gpt-4o-mini`) to evaluate a live model instead.
+providers:
+  - id: "exec:python evals/promptfoo_provider.py"
+    label: offline-echo-provider
+
+defaultTest:
+  assert:
+    - type: python
+      value: "evals/assertions.py:min_correctness"
+
+tests:
+  - description: "Case 1 - Summarize quarterly sales"
+    vars:
+      prompt: "Summarize quarterly sales"
+      ground_truth: "Quarterly sales summary"
+      expected_answer: "Summary of quarterly sales"
+    assert:
+      - type: contains
+        value: "quarterly sales"
+      - type: python
+        value: "evals/assertions.py:min_correctness"
+      - type: python
+        value: "evals/assertions.py:no_hallucination"
+
+  - description: "Case 2 - Top competitor by revenue"
+    vars:
+      prompt: "Top competitor by revenue"
+      ground_truth: "Acme Corp"
+      expected_answer: "Acme Corp"
+    assert:
+      - type: contains
+        value: "Acme Corp"
+      - type: python
+        value: "evals/assertions.py:min_correctness"
+      - type: python
+        value: "evals/assertions.py:no_hallucination"
+
+outputPath: artifacts/promptfoo_results.json

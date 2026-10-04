@@ -1,0 +1,101 @@
+Order_ID,Customer_Name,Email,Product,Quantity,Order_Date,Delivery_Date,Status,Payment_Method,Amount
+1001,Customer1,user1001@mail.com,Apple Watch SE,1,2025-02-14,,Processing,UPI,30000
+1002,Customer2,user1002@mail.com,HP LaserJet MFP,2,2025-05-03,2025-05-07,Shipped,UPI,18000
+1003,Customer3,user1003@mail.com,Samsung Galaxy S24,2,2025-01-23,2025-01-27,Shipped,Credit Card,72000
+1004,Customer4,user1004@mail.com,Samsung Galaxy S24,2,2025-04-23,2025-04-27,Delivered,UPI,72000
+1005,Customer5,user1005@mail.com,Dell Inspiron 15,2,2025-06-29,2025-07-03,Delivered,Debit Card,65000
+1006,Customer6,user1006@mail.com,Apple Watch SE,2,2025-03-11,2025-03-15,Delivered,Debit Card,30000
+1007,Customer7,user1007@mail.com,Dell Inspiron 15,2,2025-05-23,2025-05-27,Delivered,Debit Card,65000
+1008,Customer8,user1008@mail.com,Sony WH-1000XM5,1,2025-01-08,2025-01-12,Delivered,UPI,25000
+1009,Customer9,user1009@mail.com,Apple Watch SE,1,2025-01-02,2025-01-06,Delivered,Credit Card,30000
+1010,Customer10,user1010@mail.com,Apple Watch SE,2,2025-04-07,,Processing,Credit Card,30000
+1011,Customer11,user1011@mail.com,Dell Inspiron 15,2,2025-02-23,2025-02-27,Delivered,UPI,65000
+1012,Customer12,user1012@mail.com,Samsung Galaxy S24,1,2025-05-15,2025-05-19,Delivered,Credit Card,72000
+1013,Customer13,user1013@mail.com,Sony WH-1000XM5,1,2025-05-31,2025-06-04,Delivered,UPI,25000
+1014,Customer14,user1014@mail.com,Dell Inspiron 15,1,2025-03-17,2025-03-21,Delivered,Debit Card,65000
+1015,Customer15,user1015@mail.com,Dell Inspiron 15,1,2025-03-23,2025-03-27,Shipped,UPI,65000
+1016,Customer16,user1016@mail.com,Sony WH-1000XM5,2,2025-03-06,2025-03-10,Shipped,Debit Card,25000
+1017,Customer17,user1017@mail.com,Sony WH-1000XM5,2,2025-02-28,2025-03-04,Delivered,UPI,25000
+1018,Customer18,user1018@mail.com,Dell Inspiron 15,1,2025-06-19,2025-06-23,Delivered,Debit Card,65000
+1019,Customer19,user1019@mail.com,HP LaserJet MFP,1,2025-03-25,2025-03-29,Delivered,UPI,18000
+1020,Customer20,user1020@mail.com,Samsung Galaxy S24,1,2025-05-19,2025-05-23,Delivered,Debit Card,72000
+1021,Customer21,user1021@mail.com,Sony WH-1000XM5,1,2025-06-26,2025-06-30,Delivered,Debit Card,25000
+1022,Customer22,user1022@mail.com,Apple Watch SE,1,2025-02-02,2025-02-06,Delivered,Debit Card,30000
+1023,Customer23,user1023@mail.com,Samsung Galaxy S24,2,2025-02-17,2025-02-21,Delivered,Credit Card,72000
+1024,Customer24,user1024@mail.com,HP LaserJet MFP,1,2025-01-17,2025-01-21,Cancelled,Debit Card,18000
+1025,Customer25,user1025@mail.com,Sony WH-1000XM5,1,2025-05-17,2025-05-21,Delivered,Credit Card,25000
+1026,Customer26,user1026@mail.com,Samsung Galaxy S24,1,2025-04-21,2025-04-25,Delivered,Credit Card,72000
+1027,Customer27,user1027@mail.com,HP LaserJet MFP,1,2025-06-02,2025-06-06,Delivered,UPI,18000
+1028,Customer28,user1028@mail.com,Samsung Galaxy S24,1,2025-04-30,2025-05-04,Shipped,Debit Card,72000
+1029,Customer29,user1029@mail.com,Sony WH-1000XM5,2,2025-02-15,2025-02-19,Delivered,Credit Card,25000
+1030,Customer30,user1030@mail.com,HP LaserJet MFP,1,2025-05-22,2025-05-26,Delivered,Credit Card,18000
+1031,Customer31,user1031@mail.com,Sony WH-1000XM5,1,2025-02-01,2025-02-05,Shipped,UPI,25000
+1032,Customer32,user1032@mail.com,Apple Watch SE,2,2025-01-27,2025-01-31,Delivered,Debit Card,30000
+1033,Customer33,user1033@mail.com,Samsung Galaxy S24,1,2025-04-27,2025-05-01,Delivered,Credit Card,72000
+1034,Customer34,user1034@mail.com,Dell Inspiron 15,1,2025-04-01,2025-04-05,Delivered,Debit Card,65000
+1035,Customer35,user1035@mail.com,Apple Watch SE,2,2025-01-14,2025-01-18,Shipped,Debit Card,30000
+1036,Customer36,user1036@mail.com,Samsung Galaxy S24,1,2025-01-11,2025-01-15,Shipped,UPI,72000
+1037,Customer37,user1037@mail.com,Sony WH-1000XM5,1,2025-01-10,2025-01-14,Delivered,Credit Card,25000
+1038,Customer38,user1038@mail.com,Sony WH-1000XM5,2,2025-06-16,2025-06-20,Cancelled,Debit Card,25000
+1039,Customer39,user1039@mail.com,Sony WH-1000XM5,1,2025-04-26,2025-04-30,Shipped,UPI,25000
+1040,Customer40,user1040@mail.com,Apple Watch SE,2,2025-03-02,2025-03-06,Delivered,Credit Card,30000
+1041,Customer41,user1041@mail.com,Dell Inspiron 15,2,2025-02-26,2025-03-02,Delivered,Credit Card,65000
+1042,Customer42,user1042@mail.com,Sony WH-1000XM5,2,2025-02-19,2025-02-23,Delivered,Debit Card,25000
+1043,Customer43,user1043@mail.com,Sony WH-1000XM5,1,2025-04-27,,Processing,Debit Card,25000
+1044,Customer44,user1044@mail.com,Samsung Galaxy S24,1,2025-04-12,2025-04-16,Delivered,UPI,72000
+1045,Customer45,user1045@mail.com,HP LaserJet MFP,1,2025-02-11,,Processing,UPI,18000
+1046,Customer46,user1046@mail.com,Apple Watch SE,1,2025-01-19,2025-01-23,Delivered,Debit Card,30000
+1047,Customer47,user1047@mail.com,Dell Inspiron 15,1,2025-06-25,2025-06-29,Delivered,Debit Card,65000
+1048,Customer48,user1048@mail.com,HP LaserJet MFP,1,2025-06-15,2025-06-19,Cancelled,Credit Card,18000
+1049,Customer49,user1049@mail.com,Samsung Galaxy S24,1,2025-01-10,2025-01-14,Delivered,Credit Card,72000
+1050,Customer50,user1050@mail.com,Dell Inspiron 15,1,2025-04-12,2025-04-16,Delivered,UPI,65000
+1051,Customer51,user1051@mail.com,Sony WH-1000XM5,2,2025-03-22,,Processing,Debit Card,25000
+1052,Customer52,user1052@mail.com,Sony WH-1000XM5,1,2025-01-27,,Processing,UPI,25000
+1053,Customer53,user1053@mail.com,Apple Watch SE,1,2025-03-04,2025-03-08,Delivered,Debit Card,30000
+1054,Customer54,user1054@mail.com,HP LaserJet MFP,1,2025-04-22,2025-04-26,Shipped,Credit Card,18000
+1055,Customer55,user1055@mail.com,HP LaserJet MFP,2,2025-04-17,2025-04-21,Delivered,Debit Card,18000
+1056,Customer56,user1056@mail.com,Sony WH-1000XM5,1,2025-06-26,2025-06-30,Shipped,Credit Card,25000
+1057,Customer57,user1057@mail.com,Dell Inspiron 15,2,2025-04-19,2025-04-23,Shipped,Credit Card,65000
+1058,Customer58,user1058@mail.com,Sony WH-1000XM5,1,2025-01-13,2025-01-17,Delivered,Debit Card,25000
+1059,Customer59,user1059@mail.com,Apple Watch SE,1,2025-01-01,2025-01-05,Delivered,UPI,30000
+1060,Customer60,user1060@mail.com,Dell Inspiron 15,1,2025-06-05,2025-06-09,Delivered,Credit Card,65000
+1061,Customer61,user1061@mail.com,Dell Inspiron 15,1,2025-03-18,2025-03-22,Delivered,UPI,65000
+1062,Customer62,user1062@mail.com,Apple Watch SE,1,2025-05-17,2025-05-21,Delivered,Credit Card,30000
+1063,Customer63,user1063@mail.com,HP LaserJet MFP,1,2025-05-05,2025-05-09,Delivered,UPI,18000
+1064,Customer64,user1064@mail.com,Samsung Galaxy S24,2,2025-01-25,2025-01-29,Shipped,Credit Card,72000
+1065,Customer65,user1065@mail.com,HP LaserJet MFP,1,2025-05-03,,Processing,UPI,18000
+1066,Customer66,user1066@mail.com,Sony WH-1000XM5,2,2025-05-30,2025-06-03,Shipped,Debit Card,25000
+1067,Customer67,user1067@mail.com,HP LaserJet MFP,2,2025-05-15,2025-05-19,Cancelled,UPI,18000
+1068,Customer68,user1068@mail.com,Apple Watch SE,1,2025-04-18,2025-04-22,Delivered,UPI,30000
+1069,Customer69,user1069@mail.com,Samsung Galaxy S24,2,2025-06-09,2025-06-13,Delivered,Credit Card,72000
+1070,Customer70,user1070@mail.com,HP LaserJet MFP,2,2025-02-07,2025-02-11,Shipped,UPI,18000
+1071,Customer71,user1071@mail.com,Sony WH-1000XM5,1,2025-04-28,2025-05-02,Delivered,UPI,25000
+1072,Customer72,user1072@mail.com,HP LaserJet MFP,1,2025-05-17,2025-05-21,Shipped,UPI,18000
+1073,Customer73,user1073@mail.com,Dell Inspiron 15,2,2025-01-02,,Processing,UPI,65000
+1074,Customer74,user1074@mail.com,Samsung Galaxy S24,1,2025-03-03,2025-03-07,Cancelled,Debit Card,72000
+1075,Customer75,user1075@mail.com,Apple Watch SE,2,2025-02-19,2025-02-23,Delivered,UPI,30000
+1076,Customer76,user1076@mail.com,HP LaserJet MFP,2,2025-03-19,2025-03-23,Cancelled,UPI,18000
+1077,Customer77,user1077@mail.com,Sony WH-1000XM5,1,2025-06-27,2025-07-01,Delivered,Debit Card,25000
+1078,Customer78,user1078@mail.com,Dell Inspiron 15,2,2025-03-12,2025-03-16,Shipped,Credit Card,65000
+1079,Customer79,user1079@mail.com,HP LaserJet MFP,1,2025-06-18,2025-06-22,Delivered,Debit Card,18000
+1080,Customer80,user1080@mail.com,Sony WH-1000XM5,2,2025-03-14,2025-03-18,Delivered,Debit Card,25000
+1081,Customer81,user1081@mail.com,HP LaserJet MFP,1,2025-02-22,2025-02-26,Shipped,UPI,18000
+1082,Customer82,user1082@mail.com,Dell Inspiron 15,1,2025-04-03,2025-04-07,Delivered,Debit Card,65000
+1083,Customer83,user1083@mail.com,Dell Inspiron 15,1,2025-01-05,2025-01-09,Shipped,UPI,65000
+1084,Customer84,user1084@mail.com,Sony WH-1000XM5,1,2025-01-17,2025-01-21,Delivered,Credit Card,25000
+1085,Customer85,user1085@mail.com,Apple Watch SE,2,2025-01-05,2025-01-09,Shipped,UPI,30000
+1086,Customer86,user1086@mail.com,HP LaserJet MFP,2,2025-04-01,2025-04-05,Delivered,Debit Card,18000
+1087,Customer87,user1087@mail.com,Apple Watch SE,2,2025-06-16,2025-06-20,Delivered,Credit Card,30000
+1088,Customer88,user1088@mail.com,Dell Inspiron 15,1,2025-01-08,2025-01-12,Delivered,Credit Card,65000
+1089,Customer89,user1089@mail.com,Dell Inspiron 15,1,2025-05-03,2025-05-07,Delivered,Credit Card,65000
+1090,Customer90,user1090@mail.com,Apple Watch SE,2,2025-06-01,2025-06-05,Delivered,UPI,30000
+1091,Customer91,user1091@mail.com,Sony WH-1000XM5,1,2025-06-23,,Processing,Debit Card,25000
+1092,Customer92,user1092@mail.com,HP LaserJet MFP,1,2025-06-28,,Processing,UPI,18000
+1093,Customer93,user1093@mail.com,Apple Watch SE,1,2025-04-13,2025-04-17,Delivered,UPI,30000
+1094,Customer94,user1094@mail.com,Sony WH-1000XM5,2,2025-03-05,2025-03-09,Delivered,Credit Card,25000
+1095,Customer95,user1095@mail.com,Dell Inspiron 15,2,2025-02-10,2025-02-14,Delivered,Credit Card,65000
+1096,Customer96,user1096@mail.com,Sony WH-1000XM5,2,2025-06-26,2025-06-30,Shipped,UPI,25000
+1097,Customer97,user1097@mail.com,Apple Watch SE,2,2025-04-06,2025-04-10,Delivered,Debit Card,30000
+1098,Customer98,user1098@mail.com,Apple Watch SE,1,2025-04-04,2025-04-08,Delivered,Credit Card,30000
+1099,Customer99,user1099@mail.com,Apple Watch SE,2,2025-01-31,2025-02-04,Delivered,Debit Card,30000
+1100,Customer100,user1100@mail.com,HP LaserJet MFP,1,2025-04-17,,Processing,Credit Card,18000

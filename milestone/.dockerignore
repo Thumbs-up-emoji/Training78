@@ -1,0 +1,13 @@
+.git
+.github
+.pytest_cache
+__pycache__
+*.py[cod]
+.env
+artifacts/*.db
+artifacts/*.jsonl
+logs/*.jsonl
+output/
+outputs/
+evidence/
+Milestone6-ProjectSpecs/

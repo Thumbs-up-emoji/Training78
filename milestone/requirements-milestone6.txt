@@ -1,0 +1,21 @@
+# Milestone 6 runtime dependencies
+# Self-contained; includes the project’s M5 runtime and M6 testing/audit tools.
+
+fastapi
+httpx
+langchain-openai
+langgraph
+langsmith
+pandas
+pydantic
+pytest
+python-docx
+python-dotenv
+redis
+sqlglot
+uvicorn[standard]
+streamlit
+PyJWT
+locust>=2.32
+aif360>=0.6
+scikit-learn>=1.5

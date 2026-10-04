@@ -1,0 +1,11 @@
+{"trace_id":"6bdb86dcfed24360bb0f70ba344d3cb6","query":"According to the FAQ, what should you do to generate a competitor report?","rating":"up","comment":null,"recorded_at":"2026-08-07T04:20:54.049900+00:00"}
+{"trace_id":"ab224be060e943e0bad19d6c1bed8f21","query":"Per the FAQ, where is conversation history stored?","rating":"up","comment":null,"recorded_at":"2026-08-07T04:20:54.057703+00:00"}
+{"trace_id":"b32950be1f364911b75fe4304b3fdb92","query":"What does the compliance policy say must happen to SQL queries before they run?","rating":"up","comment":null,"recorded_at":"2026-08-07T04:20:54.064075+00:00"}
+{"trace_id":"6911f253b9d7441dac6bd036f6232dae","query":"What format must every agent action be logged in, per the compliance policies?","rating":"down","comment":null,"recorded_at":"2026-08-07T04:20:54.070512+00:00"}
+{"trace_id":"689349d90ef3471a88ff0be93cda4770","query":"Which observability tool does the product manual say the Enterprise AI Research Suite uses?","rating":"up","comment":null,"recorded_at":"2026-08-07T04:20:54.078434+00:00"}
+{"trace_id":"9cd862dd122e4ca4964d27f5eb2a8d8d","query":"Per the FAQ, what happens to a report if compliance fails?","rating":"up","comment":null,"recorded_at":"2026-08-07T04:20:54.085204+00:00"}
+{"trace_id":"7007a76388cf44868a770508f08de2e0","query":"If a generated report accidentally reveals a customer's financial details, which policy did that break?","rating":"up","comment":null,"recorded_at":"2026-08-07T04:20:54.094459+00:00"}
+{"trace_id":"f6d4587c7d1c45c4b860854bbb7d1346","query":"How much revenue did DataSphere 1 bring in during the first quarter of 2025?","rating":"down","comment":null,"recorded_at":"2026-08-07T04:20:54.101297+00:00"}
+{"trace_id":"eb24bd7843d04848a6fe81261dc094fd","query":"What is DataSphere 1's market share?","rating":"up","comment":null,"recorded_at":"2026-08-07T04:20:54.108956+00:00"}
+{"trace_id":"0cc429a45e79420992fa4047e7ff246d","query":"What is DataSphere 1's Net Promoter Score (NPS)?","rating":"up","comment":null,"recorded_at":"2026-08-07T04:20:54.116174+00:00"}
+{"trace_id":"e7d1d799f83d4c17b2b05fef913710b6","query":"According to the FAQ, what should you do to generate a competitor report?","rating":"up","comment":null,"recorded_at":"2026-08-07T04:44:28.948343+00:00"}

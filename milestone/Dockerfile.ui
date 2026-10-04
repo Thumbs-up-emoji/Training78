@@ -1,0 +1,17 @@
+# Streamlit client image.  It contains no engine logic; it calls the backend
+# through Docker DNS at http://backend:8000.
+FROM python:3.11-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1
+
+WORKDIR /app
+
+COPY requirements-milestone5.txt ./
+RUN pip install --no-cache-dir -r requirements-milestone5.txt
+
+COPY . .
+
+EXPOSE 8501
+
+CMD ["streamlit", "run", "entrypoints/milestone5_production_ui.py", "--server.address=0.0.0.0", "--server.port=8501"]
